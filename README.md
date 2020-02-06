@@ -1,9 +1,12 @@
-# frontend-react-razzle
+<a href="https://deploymonk.com"><img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60" /></a>
 
-Repository for the the following guide:
+A super simple Razzle application.
 
-**Razzle**
+## Getting started
 
-Deploy your server-side rendered, front-end websites and web applications build using `jaredpalmer/razzle` framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/frontend-react-razzle.git`
+- Install dependencies: `npm install`
+- Start server: `npm start`
 
-Link: [explore.deploymonk.com/docs/frontend-react-razzle](https://explore.deploymonk.com/docs/frontend-react-razzle)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/frontend-react-razzle](https://explore.deploymonk.com/docs/frontend-react-razzle) to learn more!
